@@ -25,7 +25,11 @@ Welcome to **Awesome AI Tools**! This repository is a curated collection of some
 - **[Suno](https://suno.com/)** - Make a song about anything.
 - **[Chesski](https://chesski.lol/)** - Personal AI chess tutor.
 - **[Exa](https://exa.ai/search)** - Search filters that get only the type of content you want.
-
+- **[LLamaTutor](https://llamatutor.together.ai/)** - Explain any subject at any education level.
+- **[Mymathsolver](https://mymathsolver.ai/)** - AI powered math solver.
+- **[Elicit](https://elicit.com/)** - Analyze research papers at superhuman speed.
+- **[SrefHunter](https://srefhunter.top/)** - Midjourney `sref` codes database.
+- **[Consensus](https://consensus.app/)** - Search engine that uses AI to find answers in scientific research.
 
 
 
