@@ -30,8 +30,18 @@ Welcome to **Awesome AI Tools**! This repository is a curated collection of some
 - **[Elicit](https://elicit.com/)** - Analyze research papers at superhuman speed.
 - **[SrefHunter](https://srefhunter.top/)** - Midjourney `sref` codes database.
 - **[Consensus](https://consensus.app/)** - Search engine that uses AI to find answers in scientific research.
-
-
+- **[RegexBot](https://www.regexbot.xyz/)** - Convert natural language to RegEx with AI. 
+- **[Charmed](https://charmed.ai/)** - AI-toolkit for 3D assets in games.
+- **[Dola](https://heydola.com/)** - AI calendar assistant. 
+- **[Ion Design](https://www.ion.design/)** - Convert Figma designs into clean react code. 
+- **[Hero](https://www.herostuff.com/)** - Sell stuff faster with AI. 
+- **[Hacksnack by Kadoa](https://www.kadoa.com/hacksnack/)** - Select your interests and get relevant HackerNews posts.
+- **[Let's Build AI](https://letsbuild.ai/)** - A community-driven platform for AI enthusiasts. 
+- **[Phorm](https://www.phorm.ai/)** - AI code search that helps you understand code faster.
+- **[Reimagine by FreePik](https://www.freepik.com/pikaso/reimagine)** - Create endless variations and styles from any image.
+- **[Claros](https://www.claros.so/)** - Find the best products to buy using LLMs and Reddit.
+- **[AI Convert](https://convert.mitta.ai/)** - Use prompts to convert files.
+- **[Remove Video Background](https://huggingface.co/spaces/amirgame197/Remove-Video-Background)** - Video background remover with just one click.
 
 
 
