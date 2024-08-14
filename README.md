@@ -42,7 +42,9 @@ Welcome to **Awesome AI Tools**! This repository is a curated collection of some
 - **[Claros](https://www.claros.so/)** - Find the best products to buy using LLMs and Reddit.
 - **[AI Convert](https://convert.mitta.ai/)** - Use prompts to convert files.
 - **[Remove Video Background](https://huggingface.co/spaces/amirgame197/Remove-Video-Background)** - Video background remover with just one click.
-
+- **[GG Charts](https://gg-charts.com/)** - Software architecture simulator for documentation and presentation purposes.
+- **[Minard](https://minard.ai/)** - Natural language data visualization.
+- **[Stepify](https://stepify.tech/)** - Get a step-by-step tutorial of any video to follow along.
 
 
 
